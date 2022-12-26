@@ -248,6 +248,10 @@ p {
 }
 
 @media(max-width: 550px) {
+    .dados-pessoais-all {
+        margin-bottom: 100px;
+    }
+
     .potfolio .coluna-3 {
         grid-template-columns: 100%;
     }
