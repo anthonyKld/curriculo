@@ -155,11 +155,13 @@ p {
     text-decoration: none;
     color: #fff;
     background-color: #000000;
+    border: 2px solid #fff;
 }
 
 .potfolio a:hover {
     background-color: #00FF5F;
     color: #000000;
+    border: transparent;
 }
 
 .modulo-potfolio {
@@ -185,6 +187,7 @@ p {
     text-decoration: none;
     color: #fff;
     background-color: #000000;
+    border: none;
 }
 
 .modulo-potfolio a:hover {
