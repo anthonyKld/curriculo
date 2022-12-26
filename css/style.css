@@ -144,6 +144,24 @@ p {
     grid-template-columns: 50% 50%;
 }
 
+.potfolio p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.potfolio a {
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000000;
+}
+
+.potfolio a:hover {
+    background-color: #00FF5F;
+    color: #000000;
+}
+
 .modulo-potfolio {
     text-align: center;
     background-color: #ffffff63;
